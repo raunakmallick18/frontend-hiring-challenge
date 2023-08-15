@@ -23,8 +23,8 @@ FakeShop is a mock e-commerce website developed for educational purposes. It dem
 - **Interactive Elements:** Enhance user experience with interactive buttons, navigation, and modal dialogs.
 
 # Installation:
-1. Clone the repository:
-2. Navigate to the project directory:
+1. Clone the repository: git clone https://github.com/raunakmallick18/frontend-hiring-challenge.git
+2. Navigate to the project directory: *Frontend Hiring Challenge by Raunak Mallick*
 
 # Usage:
 1. Open the **index.html** file in your web browser.

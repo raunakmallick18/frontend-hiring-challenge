@@ -2,6 +2,7 @@
 
 # FakeShop E-Commerce Website
 Welcome to FakeShop, an e-commerce web development project built using HTML, CSS, JavaScript, and Bootstrap. This project showcases the implementation of a basic online shopping platform with essential features and a user-friendly interface.
+![GitHub Logo](https://github.com/raunakmallick18/frontend-hiring-challenge/blob/main/FakeShop.jpg)
 
 # Table of Contents:
 1. Introduction
